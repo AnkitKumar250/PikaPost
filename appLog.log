@@ -1,0 +1,2 @@
+2024-11-04 15:16:16,619 [INFO] com.starter.SpringStarter.SpringStarterProjectApplication [restartedMain] Starting SpringStarterProjectApplication using Java 21.0.2 with PID 9696 (D:\SpringStarter\target\classes started by ANKIT KUMAR in D:\SpringStarter)
+2024-11-04 15:16:16,675 [INFO] com.starter.SpringStarter.SpringStarterProjectApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
